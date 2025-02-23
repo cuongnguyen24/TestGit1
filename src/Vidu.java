@@ -11,6 +11,6 @@ public class Vidu {
 		
 		System.out.println("|a| = "+ Math.abs(a));
 		System.out.println("|a| = "+ Math.abs(a));
-		
+		System.out.println("Dev1");
 	}
 }
